@@ -1849,6 +1849,19 @@ body {
   text-decoration: line-through;
   color: #767676;
 }
+.cid-roiWoDaQsN {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-roiWoDaQsN .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-roiWoDaQsN .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rnyTQHkqdn {
   padding-top: 90px;
   padding-bottom: 90px;
